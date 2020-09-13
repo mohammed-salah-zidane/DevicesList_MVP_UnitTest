@@ -1,0 +1,6 @@
+framework module SKSearchController {
+  umbrella header "SKSearchController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_DevicesList_DevicesListUITests {
+  umbrella header "Pods-DevicesList-DevicesListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
